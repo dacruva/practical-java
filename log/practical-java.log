@@ -1,0 +1,67 @@
+[Practical Java] 10:49:41.800  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 654 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 10:49:41.803  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 10:49:43.145  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 10:49:43.158  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.841 seconds (JVM running for 2.243)
+[Practical Java] 11:09:55.666  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 846 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 11:09:55.670  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 11:09:56.843  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 11:09:56.855  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.645 seconds (JVM running for 2.059)
+[Practical Java] 11:10:29.067  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 995 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 11:10:29.071  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 11:10:30.272  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 11:10:30.285  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.721 seconds (JVM running for 2.151)
+[Practical Java] 11:14:05.873  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 1145 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 11:14:05.876  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 11:14:07.119  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 11:14:07.130  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.732 seconds (JVM running for 2.137)
+[Practical Java] 11:39:01.707  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 1509 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 11:39:01.710  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 11:39:03.277  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 11:39:03.294  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.121 seconds (JVM running for 2.529)
+[Practical Java] 11:39:52.893  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 1660 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 11:39:52.895  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 11:39:54.498  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 11:39:54.510  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.176 seconds (JVM running for 2.723)
+[Practical Java] 13:10:23.256  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 2018 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 13:10:23.257  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 13:10:23.333  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 13:10:23.334  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 13:10:24.574  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 13:10:24.735  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 13:10:24.754  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.98 seconds (JVM running for 2.461)
+[Practical Java] 13:18:43.884  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 2298 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 13:18:43.885  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 13:18:43.950  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 13:18:43.951  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 13:18:45.342  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 13:18:45.472  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 13:18:45.487  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.069 seconds (JVM running for 2.596)
+[Practical Java] 13:20:20.456  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 2456 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 13:20:20.457  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 13:20:20.519  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 13:20:20.519  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 13:20:21.634  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 13:20:21.752  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 13:20:21.768  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.706 seconds (JVM running for 2.248)
+[Practical Java] 13:24:44.688  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 2615 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 13:24:44.689  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 13:24:44.753  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 13:24:44.753  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 13:24:46.107  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 13:24:46.243  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 13:24:46.258  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.021 seconds (JVM running for 2.538)
+[Practical Java] 14:15:34.811  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 3692 (started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 14:15:34.813  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
+[Practical Java] 14:15:35.969  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.442 seconds (JVM running for 2.447)
+[Practical Java] 14:16:40.698  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 3910 (started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 14:16:40.700  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
+[Practical Java] 14:16:42.051  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.652 seconds (JVM running for 2.737)
+[Practical Java] 14:21:13.267  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 4082 (started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 14:21:13.269  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
+[Practical Java] 14:21:14.453  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.487 seconds (JVM running for 2.552)
+[Practical Java] 14:21:49.148  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 4290 (started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 14:21:49.150  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
+[Practical Java] 14:21:50.260  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.394 seconds (JVM running for 2.408)
+[Practical Java] 14:26:51.754  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 4671 (started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 14:26:51.756  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
+[Practical Java] 14:26:52.929  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.472 seconds (JVM running for 2.549)
