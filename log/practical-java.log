@@ -84,3 +84,15 @@
 [Practical Java] 15:26:30.392  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
 [Practical Java] 15:26:42.645  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
 [Practical Java] 15:27:30.009  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:35:13.919  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:35:14.897  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:55:59.719  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 5841 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 15:55:59.721 DEBUG --- c.c.p.PracticalJavaApplication           : Running with Spring Boot v2.5.9, Spring v5.3.15
+[Practical Java] 15:55:59.722  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 15:56:01.437  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.434 seconds (JVM running for 3.007)
+[Practical Java] 15:57:32.387  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot REST API
+[Practical Java] 15:57:34.039  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot REST API
+[Practical Java] 16:34:17.488  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 6240 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 16:34:17.489 DEBUG --- c.c.p.PracticalJavaApplication           : Running with Spring Boot v2.5.9, Spring v5.3.15
+[Practical Java] 16:34:17.489  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 16:34:18.861  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.909 seconds (JVM running for 2.446)
