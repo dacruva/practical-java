@@ -65,3 +65,22 @@
 [Practical Java] 14:26:51.754  INFO --- c.c.p.PracticalJavaApplicationTests      : Starting PracticalJavaApplicationTests using Java 11.0.13 on pop-os with PID 4671 (started by daniel in /home/daniel/APICourse/project/practical-java)
 [Practical Java] 14:26:51.756  INFO --- c.c.p.PracticalJavaApplicationTests      : No active profile set, falling back to default profiles: default
 [Practical Java] 14:26:52.929  INFO --- c.c.p.PracticalJavaApplicationTests      : Started PracticalJavaApplicationTests in 1.472 seconds (JVM running for 2.549)
+[Practical Java] 15:21:27.315  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 5115 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 15:21:27.318  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 15:21:27.394  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 15:21:27.394  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 15:21:28.940  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 15:21:29.082  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 15:21:29.096  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.398 seconds (JVM running for 3.026)
+[Practical Java] 15:26:24.041  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 5287 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
+[Practical Java] 15:26:24.042  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
+[Practical Java] 15:26:24.122  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[Practical Java] 15:26:24.123  INFO --- .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[Practical Java] 15:26:25.286  INFO --- o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+[Practical Java] 15:26:25.444  INFO --- o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8001
+[Practical Java] 15:26:25.464  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 1.879 seconds (JVM running for 2.403)
+[Practical Java] 15:26:27.554  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:26:28.806  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:26:30.392  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:26:42.645  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
+[Practical Java] 15:27:30.009  INFO --- c.c.p.api.server.DefaultRestApi          : Hello this is spring boot rest API
