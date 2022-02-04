@@ -1,15 +1,7 @@
-[Practical Java] 09:49:02.793  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 446 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
-[Practical Java] 09:49:02.800 DEBUG --- c.c.p.PracticalJavaApplication           : Running with Spring Boot v2.5.9, Spring v5.3.15
-[Practical Java] 09:49:02.800  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
-[Practical Java] 09:49:04.534  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.402 seconds (JVM running for 3.004)
-[Practical Java] 09:52:24.773  INFO --- c.c.practicaljava.api.server.CarApi      : Car is Car{brand='Mit', color='Blue', type='Sedan'}
-[Practical Java] 09:55:15.267  INFO --- c.c.practicaljava.api.server.CarApi      : Car is Car{brand='Mit', color='Blue', type='Sedan'}
-[Practical Java] 09:55:37.843  INFO --- c.c.practicaljava.api.server.CarApi      : Car is Car{brand='null', color='Blue', type='Sedan'}
-[Practical Java] 11:58:45.455  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 702 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
-[Practical Java] 11:58:45.456 DEBUG --- c.c.p.PracticalJavaApplication           : Running with Spring Boot v2.5.9, Spring v5.3.15
-[Practical Java] 11:58:45.456  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
-[Practical Java] 11:58:47.234  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.368 seconds (JVM running for 2.923)
-[Practical Java] 12:00:30.033  INFO --- c.c.p.PracticalJavaApplication           : Starting PracticalJavaApplication using Java 11.0.13 on pop-os with PID 853 (/home/daniel/APICourse/project/practical-java/build/classes/java/main started by daniel in /home/daniel/APICourse/project/practical-java)
-[Practical Java] 12:00:30.035 DEBUG --- c.c.p.PracticalJavaApplication           : Running with Spring Boot v2.5.9, Spring v5.3.15
-[Practical Java] 12:00:30.035  INFO --- c.c.p.PracticalJavaApplication           : No active profile set, falling back to default profiles: default
-[Practical Java] 12:00:31.643  INFO --- c.c.p.PracticalJavaApplication           : Started PracticalJavaApplication in 2.205 seconds (JVM running for 2.74)
+[Practical Java] 09:03:03.946 TRACE --- o.s.data.elasticsearch.client.WIRE       : [2f6f4ac4] Received raw response: 200 OK
+[Practical Java] 09:03:04.136 TRACE --- o.s.data.elasticsearch.client.WIRE       : [431babe6] Sending request POST /practical-java/_refresh?ignore_throttled=false&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true with parameters: 
+[Practical Java] 09:03:04.138 TRACE --- o.s.data.elasticsearch.client.WIRE       : [431babe6] Received raw response: 200 OK
+[Practical Java] 09:03:04.201 TRACE --- o.s.data.elasticsearch.client.WIRE       : [4db46344] Sending request POST /practical-java/_search?typed_keys=true&max_concurrent_shard_requests=5&ignore_unavailable=false&expand_wildcards=open&allow_no_indices=true&ignore_throttled=true&search_type=dfs_query_then_fetch&batched_reduce_size=512&ccs_minimize_roundtrips=true with parameters: 
+Request body: {"from":0,"size":0,"query":{"match_all":{"boost":1.0}},"version":true,"explain":false,"track_total_hits":2147483647}
+[Practical Java] 09:03:04.203 TRACE --- o.s.data.elasticsearch.client.WIRE       : [4db46344] Received raw response: 200 OK
+[Practical Java] 09:03:04.212  INFO --- c.c.p.common.CarElasticDataSource        : Saved 10000 cars

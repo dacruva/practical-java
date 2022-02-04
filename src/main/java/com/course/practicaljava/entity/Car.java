@@ -1,19 +1,55 @@
 package com.course.practicaljava.entity;
 
-import java.time.LocalDate;
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonUnwrapped;
+import com.fasterxml.jackson.databind.PropertyNamingStrategy;
+import com.fasterxml.jackson.databind.annotation.JsonNaming;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.elasticsearch.annotations.DateFormat;
+import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+import org.springframework.data.elasticsearch.annotations.FieldType;
 
+import java.time.LocalDate;
+import java.util.List;
+import java.util.Properties;
+
+@Document(indexName = "practical-java")
+@JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)
 public class Car {
+    @Id
+    private String id;
     private String brand;
     private String color;
     private String type;
     private int price;
     private boolean available;
+    @Field(type = FieldType.Date, format = DateFormat.date)
+    @JsonFormat(pattern = "yyyy-MM-dd")
     private LocalDate firstReleaseDate;
+    @JsonInclude(value = JsonInclude.Include.NON_EMPTY)
+    private List<String> additionalFeatures;
+    @JsonUnwrapped
+    private Engine engine;
+    private List<Tire> tires;
+    @JsonInclude(value = JsonInclude.Include.NON_EMPTY)
+    private String secretFeature;
 
-    public Car(String brand, String color, String type) {
-        this.brand = brand;
-        this.color = color;
-        this.type = type;
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getSecretFeature() {
+        return secretFeature;
+    }
+
+    public void setSecretFeature(String secretFeature) {
+        this.secretFeature = secretFeature;
     }
 
     @Override
@@ -25,7 +61,41 @@ public class Car {
                 ", price=" + price +
                 ", available=" + available +
                 ", firstReleaseDate=" + firstReleaseDate +
+                ", additionalFeatures=" + additionalFeatures +
+                ", engine=" + engine +
+                ", tires=" + tires +
+                ", secretFeature='" + secretFeature + '\'' +
                 '}';
+    }
+
+    public Car(String brand, String color, String type) {
+        this.brand = brand;
+        this.color = color;
+        this.type = type;
+    }
+
+    public List<String> getAdditionalFeatures() {
+        return additionalFeatures;
+    }
+
+    public Engine getEngine() {
+        return engine;
+    }
+
+    public void setEngine(Engine engine) {
+        this.engine = engine;
+    }
+
+    public List<Tire> getTires() {
+        return tires;
+    }
+
+    public void setTires(List<Tire> tires) {
+        this.tires = tires;
+    }
+
+    public void setAdditionalFeatures(List<String> additionalFeatures) {
+        this.additionalFeatures = additionalFeatures;
     }
 
     public int getPrice() {
